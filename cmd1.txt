@@ -23,3 +23,17 @@ C:\Users\HP\Desktop>netsh wlan show profile   "SUPERONLINE_Wi-Fi_6371" key=clear
 C:\Users\HP\Desktop\son belgeler
 //DOSYALARIN İÇİNDEN BİR ŞEY SEÇERKEN YOLU BULUP ARAMA YERİNE "cmd" YAZARAK CMD'DE DİREKT BU DİZİNE GEÇİLİR 
 
+
+
+
+C:\Users\HP>color df
+//ARKA PLAN VE YAZI RENGİNİ DEĞİŞTİRMEYE YARAR 
+
+
+C:\Users\HP>color /? 
+// RENKLER KONUSUNDA YARDIM ALMANIZI SAĞLAR 
+
+
+
+
+
