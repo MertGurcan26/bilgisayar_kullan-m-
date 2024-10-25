@@ -1,0 +1,20 @@
+C:\Users\HP>cd desktop
+C:\Users\HP\Desktop>attrib +h +s +r deneme1
+
+//MASAÜSTÜNDEN BİR DOSYAYIYI YOK ETME YÖNTEMİ
+
+
+C:\Users\HP>cd desktop
+C:\Users\HP\Desktop>attrib -h -s -r deneme1
+
+//DOSYAYI GERİ GETİRME YÖNTEMİ 
+
+
+
+C:\Users\HP\Desktop>netsh wlan show profile
+//SADECE DAHA ÖNCEKİ AĞLARI GÖSTERİR
+
+
+
+C:\Users\HP\Desktop>netsh wlan show profile   "SUPERONLINE_Wi-Fi_6371" key=clear
+//BAĞLI OLDUĞUNUZ AĞIN ŞİFRESİNİ GÖSTERİR
