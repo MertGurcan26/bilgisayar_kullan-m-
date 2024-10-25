@@ -14,6 +14,8 @@ C:\Users\HP\Desktop>netsh wlan show profile
 
 
 
+
+
 C:\Users\HP\Desktop>netsh wlan show profile   "SUPERONLINE_Wi-Fi_6371" key=clear
 //BAĞLI OLDUĞUNUZ AĞIN ŞİFRESİNİ GÖSTERİR
 
@@ -33,6 +35,8 @@ C:\Users\HP>color df
 C:\Users\HP>color /? 
 // RENKLER KONUSUNDA YARDIM ALMANIZI SAĞLAR 
 
+C:\Users\HP>title Laptop
+//CMD YAZISININ YERİNE BİR TİTLE VERİR 
 
 
 
