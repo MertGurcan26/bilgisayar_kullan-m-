@@ -39,5 +39,16 @@ C:\Users\HP>title Laptop
 //CMD YAZISININ YERİNE BİR TİTLE VERİR 
 
 
+curl wttr.in/dallas
+//HAVA DURUMUNU GÖRMEK İÇİN 
+
+
+
+C:\Users\HP>curl --head --location "https://google.com" | findstr location
+//WEB SİTELERİNİN YERİNİ , AKIŞINI GÖRMEYİ SAĞLAR 
+
+curl -Is https://google.com
+//WEB SİTE BİLGİLERİNİ GÖSTERİR
+
 
 
