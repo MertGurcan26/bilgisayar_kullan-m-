@@ -86,4 +86,15 @@ C:\WINDOWS\system32>powercfg /batteryreport
 C:\WINDOWS\system32>ASSOC
 //HANGİ UYGULAMA NE İLE AÇILIYOR ONU GÖSTERİR
 
+C:\WINDOWS\system32>chkdsk /f
+//BİLGİSAYARDAKİ DİSKDEKİ ERRORLARI TAMİR EDER 
+
+
+C:\WINDOWS\system32>sfc /scannow  //SADECE SFC YAZARAK DİĞER KOMUTLARI GÖRÜNTÜLEYEBİLİRSİNİZ 
+//SİSTEMDEKİ DOSYALARI TARAR 
+
+
+C:\WINDOWS\system32>netsh wlan show wlanreport
+//WLAN İLE İLGİLİ BİLGİLERİ RAPORLAR 
+
 
