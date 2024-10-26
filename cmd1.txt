@@ -93,8 +93,34 @@ C:\WINDOWS\system32>chkdsk /f
 C:\WINDOWS\system32>sfc /scannow  //SADECE SFC YAZARAK DİĞER KOMUTLARI GÖRÜNTÜLEYEBİLİRSİNİZ 
 //SİSTEMDEKİ DOSYALARI TARAR 
 
-
+****
 C:\WINDOWS\system32>netsh wlan show wlanreport
 //WLAN İLE İLGİLİ BİLGİLERİ RAPORLAR 
+****
+
+
+C:\WINDOWS\system32>netsh interface show interface
+//İNTERNET KULLANMA ARAYÜZÜ GÖSTERİR
+
+C:\WINDOWS\system32>netsh interface ip show address | findstr "IP Address"
+//IP ADRESİ GÖSTERİR
+
+C:\WINDOWS\system32>tracert google.com
+//BİR İNTERNET SAYFASININ İP'SİNİ , YÖNLERNDİRME YOLUNU GÖSTERİR
+
+
+C:\WINDOWS\system32>netstat
+//TCP GÖSTERİR 
+
+
+
+C:\WINDOWS\system32>netstat -e -t 5
+//ALINAN GÖNDERİLEN ARAYÜZ STATİKLERİNİ GÖSTERİR
+
+
+****
+C:\WINDOWS\system32>shutdown /r /fw /f /t 0
+//DİREKT BİOS EKRANIN AÇAR 
+****
 
 
