@@ -59,3 +59,31 @@ C:\Users\HP>telnet telehack.com
 
 cls komutu 
 //CMD'DE YAZDIĞINIZ HER ŞEYİ SİLER 
+
+
+F5 komutu
+//DAHA ÖNCE KULLLANDIĞINIZ KOMUTLARI GERİ TEK TEK GERİ GETİRİR
+
+F7 komuutu 
+//DAHA ÖNCE YAZDIĞINIZ KOMUTLARI SAYFA HALİNDE SUNAR 
+
+
+ipconfig 
+//IP BİLGİNİZİ GÖSTERİR
+
+
+****
+C:\WINDOWS\system32>powercfg /energy
+//BİLGİSAYAR ENERJİSİYLE İLE İLGİLİ RAPORLAMA VERİR
+****
+
+****
+C:\WINDOWS\system32>powercfg /batteryreport
+//BATARYAYI RAPORLAR
+****
+
+
+C:\WINDOWS\system32>ASSOC
+//HANGİ UYGULAMA NE İLE AÇILIYOR ONU GÖSTERİR
+
+
