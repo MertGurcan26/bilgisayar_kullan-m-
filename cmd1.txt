@@ -52,3 +52,10 @@ curl -Is https://google.com
 
 
 
+C:\Users\HP>telnet telehack.com
+//EĞLENCE AMAÇLI BİR TOOL VE BUNU AKTİF ETMEK İÇİN WİN10'DAN WİN ÖZELLİKLERİNİ AÇ KAPA'YA GİRİP TELNETİ AKTİF ET
+
+
+
+cls komutu 
+//CMD'DE YAZDIĞINIZ HER ŞEYİ SİLER 
