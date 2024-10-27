@@ -1,0 +1,57 @@
+win + D 
+//TÜM SEKMELERİ KÜÇÜLTÜR 
+
+win + P 
+//EKRAN YANSITMA , EKLEME SAYFASINI AÇAR 
+
+ctrl + shift + esc 
+//GÖREV YÖNETİCİSİ 
+
+ctrl + alt + del 
+// KİLİT EKRANI , GÖREV YÖNETİCİSİ AÇAR
+
+
+win + L
+//EKRANI KİTLER , KİLİT EKRANI BAŞLANGIÇA DÖNER
+
+win + t 
+//GÖREV ÇUBUĞU KONTROLUNE OLANAK SAĞLAR 
+
+win  + .
+//EMOJİ KULLANMAK İÇİN PANEL AÇAR 
+
+win + shift + s
+//HIZLI EKRAN GÖRÜNTÜSÜ ALMAK İÇİN KULLANILIR 
+
+win + a
+//BİLDİRİM PANEL AÇAR 
+
+//titretme kısayolu 
+//ARKA ARKAYA İKİ KÜÇÜK SEKMEYİ MOUSLA BİR SEKMEYİ TİTRETİRSEK ALTTAKİ SEKME KAPANIR 
+
+win + R
+//ÇALIŞTIRMA(RUN) PANELİNİ AÇAR 
+
+win + m 
+//BÜTÜN SEKMELERİ KÜÇÜLETEREK HIZLI BİR ŞEKİLDE AŞAĞI ALIR 
+
+
+alt + tab
+//SEKMELER ARASINDA GEÇİŞ SAĞLAR 
+
+
+win + k
+//BLUETOOTH CİHAZ SEKMESİ AÇAR 
+
+ctrl + t
+//chrome yeni sekme açma 
+
+shift + del
+//KALICI OLARAK BİR DOSYAYI SİLME 
+
+
+
+
+
+
+
