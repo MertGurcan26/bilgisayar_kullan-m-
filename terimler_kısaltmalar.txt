@@ -1,0 +1,15 @@
+CAD = Computer-Aided Design
+AI = Artifical Intelligent 
+GPT = Generative Pre-training Transformer
+HTML = Hyper Markup Language 
+AMF = Additive Manufacturing File Format
+
+
+
+
+
+
+
+Conventional Manufacturing = Geleneksel yöntemelerle büyük hacimde üretim
+Additive Manufacturing = katmanlı imalat , düşük hacimli esnek üretim
+
