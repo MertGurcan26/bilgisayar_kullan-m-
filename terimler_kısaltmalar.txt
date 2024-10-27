@@ -3,6 +3,9 @@ AI = Artifical Intelligent
 GPT = Generative Pre-training Transformer
 HTML = Hyper Markup Language 
 AMF = Additive Manufacturing File Format
+ABS = anti-lock braking system
+GIF = Graphics Interchange Format
+ANC = Active Noise Cancellation
 
 
 
