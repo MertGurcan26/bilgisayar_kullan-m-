@@ -7,6 +7,7 @@ ABS = anti-lock braking system
 GIF = Graphics Interchange Format
 ANC = Active Noise Cancellation
 EFT = elektronik fon transferi 
+P.R.C = People's Republic of China
 
 
 
