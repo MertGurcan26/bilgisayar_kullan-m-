@@ -8,6 +8,7 @@ GIF = Graphics Interchange Format
 ANC = Active Noise Cancellation
 EFT = elektronik fon transferi 
 P.R.C = People's Republic of China
+API = Application Programming Interface
 
 
 
