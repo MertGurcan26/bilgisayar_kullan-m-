@@ -9,13 +9,50 @@ ANC = Active Noise Cancellation
 EFT = elektronik fon transferi 
 P.R.C = People's Republic of China
 API = Application Programming Interface
-
-
-
-
-
-
-
+ATM = Automatic TeLler Machine
+DM = Direct Message
+OS – Operating System
+SATA – Serial Advanced Technology Attachment 
+PDF – Portable Document Format
+SSD – Solid State Drive
+ASCII – American Standard Code for Information Interchange
+CSS – Cascading Style Sheets
+CD – Compact Disk
+DDR – Double Data Rate
+DOC – Date Optimising Computer
+FM – Frequency Modulation
+GUI – Graphical User Interface
+GSM – Global System For Mobile Communication
+HDMI – High Definition Multimedia Interface 
+JPEG – Joint Photographic Expert Group 
+MPEG – Motion Picture Experts Group
+PNG – Portable Network
+RPM – Revolutions Per Minute
+SIM – Subscriber Identity Module
+VIRUS – Vital Information Resource Under Seized 
+VPN – Virtual Private Network
+FTP – File Transport Protocol
+LAN – Local Area Network
+USB – Universal Serial Bus
+SEO – Search Engine Optimisation 
+URL -Uniform Resource Locator 
+DNS – Domain Name Server 
+WWW – World Wide Web
+WLAN – Wireless Local Area Network
+bps - bits per second
+CIO - Chief Information Officer
+HTTPS - HyperText Transfer Protocol Secure
+BYE : Be with You Every time
+CHESS : Chariot, Horse, Elephant, Soldiers
+AUDI = Auto Union Deutschland Ingolstadt
+LCD - Liquid Crystal Display
+LED - Light Emitting Diode
+SMS - Short Message Service
+PM - Post Meridiam
+AM - Ante Meridiam
+JBL - James Bullough Lansing (Founder)
+GPS - Global Positioning System
+PNR - Passenger Name Record
 Conventional Manufacturing = Geleneksel yöntemelerle büyük hacimde üretim
 Additive Manufacturing = katmanlı imalat , düşük hacimli esnek üretim
 
