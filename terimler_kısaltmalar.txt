@@ -68,8 +68,8 @@ DVD - Digital Versatile Disc
 UI – User interface
 SMM – Social media marketing
 MODEM- Modulator Demodulator
-
-
+Bps -  (Bytes Per Second) 
+BİT - (BInary DigiT) 
 
 
 Conventional Manufacturing = Geleneksel yöntemelerle büyük hacimde üretim
